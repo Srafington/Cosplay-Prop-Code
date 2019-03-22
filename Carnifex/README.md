@@ -11,16 +11,16 @@ It requires The Adafruit Neopixel Library, but that's it.
 ## Hardware Used
 
 This Project Made Use of a bunch of stuff you can get from Adafruit and Sparkfun
-*<https://www.adafruit.com/product/2010>
-*<https://www.adafruit.com/product/2124>
-*<https://www.adafruit.com/product/2217>
-*<https://www.adafruit.com/product/1612>
-*<https://www.adafruit.com/product/1734>
-*<https://www.adafruit.com/product/1766>
-*<https://www.adafruit.com/product/3923>
-*<https://www.adafruit.com/product/1674>
-*<https://www.sparkfun.com/products/13813>
-*<https://www.sparkfun.com/products/98>
+* <https://www.adafruit.com/product/2010>
+* <https://www.adafruit.com/product/2124>
+* <https://www.adafruit.com/product/2217>
+* <https://www.adafruit.com/product/1612>
+* <https://www.adafruit.com/product/1734>
+* <https://www.adafruit.com/product/1766>
+* <https://www.adafruit.com/product/3923>
+* <https://www.adafruit.com/product/1674>
+* <https://www.sparkfun.com/products/13813>
+* <https://www.sparkfun.com/products/98>
 
 ## Other Files Needed
 
