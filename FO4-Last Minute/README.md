@@ -2,7 +2,7 @@
 
 ## There be CircuitPython Code Ahead
 
-Built on CPy V3, you'll need a bunch of the CPy libraries provided by Adafruit, and the CPy version of teh Exixe Library
+Built on CPy V3, you'll need a bunch of the CPy libraries provided by Adafruit, and the CPy version of the Exixe Library
 
 ## What about the physical model?
 
@@ -33,6 +33,6 @@ This Project Made Use of a bunch of stuff you can get from Adafruit, Sparkfun, E
 
 ## Other Files Needed
 
-This file Require 3 audio files that are not included in this repo for copyright reasons. One is the Fire sound. The other two are the charge up sound, and teh sharge steady sound (which are part of the same file in the game files)
+This file Require 3 audio files that are not included in this repo for copyright reasons. One is the Fire sound. The other two are the charge up sound, and the sharge steady sound (which are part of the same file in the game files)
 
 Mix these down to mono to help save space
