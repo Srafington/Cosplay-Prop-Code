@@ -22,8 +22,8 @@ This Project Made Use of a bunch of stuff you can get from Adafruit and Sparkfun
 * <https://www.adafruit.com/product/3968>
 * <https://www.adafruit.com/product/3898>
 * <https://www.sparkfun.com/products/98>
-* <https://www.adafruit.com/product/2940>
-* <https://www.adafruit.com/product/3002>
+* <https://www.adafruit.com/product/2940> (Optional, in case you want a larger batter that can't fit inside the pin headers)
+* <https://www.adafruit.com/product/3002> (Optional, in case you want a larger batter that can't fit inside the pin headers)
 
 ## Other Files Needed
 
