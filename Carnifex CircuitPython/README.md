@@ -7,8 +7,9 @@ Please read the Propmaker Wing guide here
 
 ## What about the physical model?
 
-At some point I will remix this to hold the 3w speaker, but if you get to this before I do, you should be able to make th change in TinkerCAD
-<https://www.thingiverse.com/thing:455678>
+I have a modified set of files for parts of the prop's body that replace JesseTheMullet's originals, as well as adding some supporting parts.
+Original Model: <https://www.thingiverse.com/thing:455678>
+Remixed Parts: 
 
 ## Hardware Used
 
@@ -18,11 +19,12 @@ This Project Made Use of a bunch of stuff you can get from Adafruit and Sparkfun
 * <https://www.adafruit.com/product/3988>
 * <https://www.adafruit.com/product/1938> (optional)
 * <https://www.adafruit.com/product/1612>
-* <https://www.adafruit.com/product/1734>
 * <https://www.adafruit.com/product/3968>
 * <https://www.adafruit.com/product/3898>
 * <https://www.sparkfun.com/products/98>
+* <https://www.adafruit.com/product/2940> (Optional, in case you want a larger batter that can't fit inside the pin headers)
+* <https://www.adafruit.com/product/3002> (Optional, in case you want a larger batter that can't fit inside the pin headers)
 
 ## Other Files Needed
 
-This file Require 3 audio files that are not included in this repo for copyright reasons. One is the Fire sound (which the game contains several for the carnifex, meant to be combined in different ways for different scenarios). Another is the overheat sound, and the final is the reload sound, whcih is comprised of two in game sound effects combined in a serial manner
+This file Require 3 audio files that are not included in this repo for copyright reasons. One is the Fire sound (which the game contains several for the carnifex, meant to be combined in different ways for different scenarios). Another is the overheat sound, and the final is the reload sound, which is comprised of two in game sound effects combined in a serial manner
